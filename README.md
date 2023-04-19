@@ -1,4 +1,4 @@
-# My macOS configuration files
+# Dotfiles for my laptop `Ankh`
 
 This repository contains my personal configuration files for my macOS system, including my `.alacritty.yml`, `.zshrc`, `skhdrc`, and `yabairc` files. These files are designed to work together to provide a customized macOS experience that is tailored to my preferences.
 
@@ -14,6 +14,12 @@ To install these configuration files on your own macOS system, you can clone thi
 - Zsh shell configuration file with various plugins and customizations for enhanced productivity.
 - Yabai window manager configuration file for a tiling window management system that can be controlled with hotkeys.
 - Skhd hotkey daemon configuration file for defining custom hotkeys for controlling the window manager and other applications.
+
+## Photos
+
+[neofetch](https://i.ibb.co/FYqk6zY/Screenshot-2023-04-20-at-01-39-57.png)
+[neovim](https://i.ibb.co/rpcQpgf/Screenshot-2023-04-20-at-01-40-35.png)
+[higuys](https://i.ibb.co/jhQB6p3/Screenshot-2023-04-20-at-01-41-52.png)
 
 ## License
 
