@@ -17,9 +17,9 @@ To install these configuration files on your own macOS system, you can clone thi
 
 ## Photos
 
-![neofetch](https://i.ibb.co/FYqk6zY/Screenshot-2023-04-20-at-01-39-57.png)
-![neovim](https://i.ibb.co/rpcQpgf/Screenshot-2023-04-20-at-01-40-35.png)
-![higuys](https://i.ibb.co/jhQB6p3/Screenshot-2023-04-20-at-01-41-52.png)
+![neofetch](https://user-images.githubusercontent.com/45449532/233216219-02ca0c3b-dc7c-4f84-8725-ca9c01109573.png)
+![neovim](https://user-images.githubusercontent.com/45449532/233216251-3e1c9c22-c0cb-4d5a-a9f9-0d7086e78807.png)
+![higuys](https://user-images.githubusercontent.com/45449532/233216271-ccb7bf66-8f64-45ef-9b30-364ae09cf0d9.png)
 
 ## License
 
